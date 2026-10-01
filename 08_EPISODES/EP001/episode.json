@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "EP001",
+  "status": "PLANNING",
+  "target_duration_seconds": {
+    "min": 30,
+    "max": 45
+  },
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "scenes": [],
+  "shots": [],
+  "assets": [],
+  "voice": [],
+  "subtitles": [],
+  "qa": {
+    "status": "NOT_STARTED",
+    "blockers": []
+  },
+  "approvals": []
+}

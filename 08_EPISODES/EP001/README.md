@@ -27,3 +27,10 @@ Planning
 - Readable subtitles
 - No unlicensed assets
 - Final render reviewed on mobile
+
+
+## Agent runtime
+
+The episode is controlled by the production agents in `00_BRAIN/agents/` and must follow the approval gates defined by the Orchestrator.
+
+No downstream asset may be generated before its upstream gate passes.

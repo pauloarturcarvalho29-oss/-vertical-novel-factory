@@ -1,22 +1,29 @@
 {
   "schema_version": "1.0",
   "character_id": "CHAR-001",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "status": "DRAFT",
   "name": "Lívia Martins",
   "role": "PROTAGONIST",
   "age": 24,
   "physical_identity": {
+    "age_appearance": "24",
     "height": "1.68m",
-    "build": "slender, natural proportions",
-    "skin": "medium warm brown",
-    "face": "oval face, defined but natural jawline, balanced facial proportions",
-    "eyes": "dark brown, almond-shaped",
-    "nose": "medium, straight bridge",
-    "mouth": "medium lips with defined cupid's bow",
-    "hair": "dark brown, shoulder-length, naturally wavy, center part",
+    "build": "natural slim-athletic build, realistic proportions, not model-perfect",
+    "skin": "medium warm brown Brazilian skin with visible natural texture, subtle pores and slight tonal variation",
+    "face": "oval but slightly asymmetrical face, soft cheek structure, naturally defined jaw, distinctive rather than conventionally perfect",
+    "eyes": "dark brown almond-shaped eyes with slight natural asymmetry and visible lower-eyelid detail",
+    "nose": "medium straight nose with a subtly broader natural base",
+    "mouth": "medium natural lips with a slightly fuller lower lip and subtle asymmetry",
+    "hair": "dark brown, shoulder-length, naturally wavy, center part, varied strand density and a few natural flyaways",
     "permanent_features": [
-      "small beauty mark below the left eye"
+      "small beauty mark below the left eye",
+      "subtle faint scar near the right eyebrow"
+    ],
+    "distinguishing_traits": [
+      "slightly uneven eyebrow height",
+      "subtle smile asymmetry",
+      "natural under-eye variation"
     ]
   },
   "wardrobe_baseline": {
@@ -32,6 +39,7 @@
     "observant",
     "intelligent",
     "reserved",
+    "empathetic",
     "emotionally expressive when trust is established"
   ],
   "acting_profile": {
@@ -63,7 +71,8 @@
       "expression_sheet",
       "wardrobe_sheet"
     ],
-    "status": "NOT_CREATED"
+    "status": "REGENERATE_REQUIRED",
+    "note": "Previous candidate sheets were not canonicalized. New Master Portrait must establish the revised realism and individuality standard."
   },
   "continuity": {
     "canon_lock": true,

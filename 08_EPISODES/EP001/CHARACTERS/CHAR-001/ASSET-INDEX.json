@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "character_id": "CHAR-001",
   "character_version": "1.0.0",
-  "status": "NOT_STARTED",
+  "status": "APPROVED",
   "assets": {
     "master_portrait": null,
     "neutral_front": null,
@@ -14,9 +14,15 @@
     "wardrobe_sheet": null
   },
   "qa": {
-    "status": "NOT_STARTED",
+    "status": "APPROVED_BY_USER",
     "blockers": []
   },
-  "provenance": [],
-  "cost_status": "NOT_STARTED"
+  "provenance": [
+    {
+      "type": "character_reference_approval",
+      "status": "approved_by_user",
+      "date": "2026-10-01"
+    }
+  ],
+  "cost_status": "NO_PAID_SERVICE_ACTIVATED"
 }

@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "character_id": "CHAR-001",
-  "version": "1.1.0",
-  "status": "DRAFT",
+  "version": "1.2.0",
+  "status": "APPROVED",
   "name": "Lívia Martins",
   "role": "PROTAGONIST",
   "age": 24,
@@ -71,8 +71,9 @@
       "expression_sheet",
       "wardrobe_sheet"
     ],
-    "status": "REGENERATE_REQUIRED",
-    "note": "Previous candidate sheets were not canonicalized. New Master Portrait must establish the revised realism and individuality standard."
+    "status": "APPROVED",
+    "note": "Previous candidate sheets were not canonicalized. New Master Portrait must establish the revised realism and individuality standard.",
+    "approval": "Canonical visual identity approved by user. Individual reference assets must retain identity lock."
   },
   "continuity": {
     "canon_lock": true,
@@ -88,5 +89,9 @@
       "permanent_features"
     ]
   },
-  "approval": null
+  "approval": {
+    "status": "APPROVED",
+    "approved_by": "USER",
+    "approved_at": "2026-10-01"
+  }
 }

@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "character_id": "CHAR-001",
+  "character_version": "1.0.0",
+  "status": "NOT_STARTED",
+  "assets": {
+    "master_portrait": null,
+    "neutral_front": null,
+    "three_quarter_left": null,
+    "three_quarter_right": null,
+    "profile": null,
+    "full_body": null,
+    "expression_sheet": null,
+    "wardrobe_sheet": null
+  },
+  "qa": {
+    "status": "NOT_STARTED",
+    "blockers": []
+  },
+  "provenance": [],
+  "cost_status": "NOT_STARTED"
+}

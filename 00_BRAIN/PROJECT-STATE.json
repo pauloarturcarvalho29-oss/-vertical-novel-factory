@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "project_id": "vnf-demo",
+  "current_state": "IDEA",
+  "canon_version": "0.1.0",
+  "episode_id": "EP001",
+  "active_workflow": null,
+  "approvals": [],
+  "qa_status": "NOT_STARTED",
+  "asset_manifest": [],
+  "provenance": [],
+  "notes": []
+}

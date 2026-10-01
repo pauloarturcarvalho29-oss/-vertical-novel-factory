@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "EP001",
+  "status": "NOT_STARTED",
+  "story": {
+    "title": null,
+    "logline": null,
+    "premise": null,
+    "genre": null,
+    "tone": null
+  },
+  "arc": {
+    "opening_hook": null,
+    "inciting_event": null,
+    "escalation": null,
+    "climax": null,
+    "ending_hook": null
+  },
+  "scene_ids": [],
+  "canon_version": "0.1.0",
+  "approval": null
+}

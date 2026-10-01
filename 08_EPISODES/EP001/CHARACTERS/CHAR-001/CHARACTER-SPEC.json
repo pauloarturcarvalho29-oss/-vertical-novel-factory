@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "character_id": "CHAR-001",
+  "version": "1.0.0",
+  "status": "DRAFT",
+  "name": "Lívia Martins",
+  "role": "PROTAGONIST",
+  "age": 24,
+  "physical_identity": {
+    "height": "1.68m",
+    "build": "slender, natural proportions",
+    "skin": "medium warm brown",
+    "face": "oval face, defined but natural jawline, balanced facial proportions",
+    "eyes": "dark brown, almond-shaped",
+    "nose": "medium, straight bridge",
+    "mouth": "medium lips with defined cupid's bow",
+    "hair": "dark brown, shoulder-length, naturally wavy, center part",
+    "permanent_features": [
+      "small beauty mark below the left eye"
+    ]
+  },
+  "wardrobe_baseline": {
+    "top": "plain off-white cotton shirt",
+    "bottom": "dark blue straight-leg jeans",
+    "shoes": "simple white sneakers",
+    "accessories": [
+      "small silver hoop earrings",
+      "thin silver necklace"
+    ]
+  },
+  "personality": [
+    "observant",
+    "intelligent",
+    "reserved",
+    "emotionally expressive when trust is established"
+  ],
+  "acting_profile": {
+    "baseline": "controlled naturalistic performance",
+    "gaze": "attentive and purposeful",
+    "gestures": "subtle, economical",
+    "emotional_range": [
+      "calm",
+      "curious",
+      "concerned",
+      "afraid",
+      "angry",
+      "relieved"
+    ]
+  },
+  "voice_profile": {
+    "voice_id": "VOICE-CHAR-001",
+    "strategy": "HUMAN_REFERENCE_PREFERRED",
+    "status": "NOT_CREATED"
+  },
+  "reference_package": {
+    "required": [
+      "master_portrait",
+      "neutral_front",
+      "three_quarter_left",
+      "three_quarter_right",
+      "profile",
+      "full_body",
+      "expression_sheet",
+      "wardrobe_sheet"
+    ],
+    "status": "NOT_CREATED"
+  },
+  "continuity": {
+    "canon_lock": true,
+    "immutable_attributes": [
+      "face",
+      "body_proportions",
+      "skin_characteristics",
+      "eye_structure",
+      "nose_structure",
+      "mouth_structure",
+      "jaw_structure",
+      "hair_identity",
+      "permanent_features"
+    ]
+  },
+  "approval": null
+}

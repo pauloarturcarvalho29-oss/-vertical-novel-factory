@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "EP001",
+  "status": "NOT_STARTED",
+  "blockers": [],
+  "major_findings": [],
+  "minor_findings": [],
+  "checks": {
+    "story": "NOT_STARTED",
+    "identity": "NOT_STARTED",
+    "voice": "NOT_STARTED",
+    "cinematography": "NOT_STARTED",
+    "image": "NOT_STARTED",
+    "motion": "NOT_STARTED",
+    "editing": "NOT_STARTED",
+    "sound": "NOT_STARTED",
+    "subtitles": "NOT_STARTED",
+    "technical": "NOT_STARTED",
+    "rights": "NOT_STARTED",
+    "cost": "NOT_STARTED"
+  }
+}

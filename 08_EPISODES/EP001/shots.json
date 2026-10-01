@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "EP001",
+  "shots": [],
+  "cinematography": {
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "target_fps": 24
+  },
+  "approval": null
+}

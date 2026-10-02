@@ -2,7 +2,9 @@
 
 ## Status
 
-ANALYSIS ONLY
+APPROVED BY USER
+
+Visual identity approved. Canonical visual reference is the approved character sheet.
 
 This document defines the character before visual production. No generated image is canonical yet.
 

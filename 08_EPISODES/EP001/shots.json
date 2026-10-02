@@ -1,11 +1,146 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "episode_id": "EP001",
-  "shots": [],
+  "title": "O MENINO DA RECEPÇÃO",
+  "production_status": "SHOT_SPEC_READY",
+  "generation_policy": {
+    "method": "image-to-video",
+    "orchestrator": "ComfyUI",
+    "candidate_model": "Wan2.2 TI2V-5B / I2V workflow",
+    "cost_policy": "FREE_LOCAL_ONLY",
+    "paid_cloud_requires_explicit_approval": true
+  },
   "cinematography": {
     "aspect_ratio": "9:16",
     "resolution": "1080x1920",
     "target_fps": 24
   },
+  "continuity": {
+    "year": 2020,
+    "identity_refs": [
+      "MIGUEL_CANONICAL_APPROVED",
+      "DANIEL_CANONICAL_APPROVED"
+    ],
+    "dialogue_between_miguel_and_daniel": false,
+    "instagram_contact": false,
+    "contact_exchange": false
+  },
+  "shots": [
+    {
+      "id": "EP001-S01",
+      "duration_s": 4,
+      "characters": [
+        "MIGUEL",
+        "BACKGROUND_STUDENTS"
+      ],
+      "action": "Miguel is with his own freshman friend group at a lively university freshman reception. Natural social movement.",
+      "camera": "vertical handheld medium-wide, slow observational drift",
+      "motion": "subtle body movement, people crossing naturally",
+      "audio": "diegetic party ambience, no dialogue from Miguel/Daniel",
+      "status": "READY_FOR_KEYFRAME"
+    },
+    {
+      "id": "EP001-S02",
+      "duration_s": 4,
+      "characters": [
+        "DANIEL",
+        "BACKGROUND_STUDENTS"
+      ],
+      "action": "Daniel is with a separate friend group. He notices Miguel across the room.",
+      "camera": "medium close-up, shallow depth of field, gentle push-in",
+      "motion": "Daniel turns his eyes toward Miguel, natural blink and breathing",
+      "audio": "diegetic party ambience",
+      "status": "READY_FOR_KEYFRAME"
+    },
+    {
+      "id": "EP001-S03",
+      "duration_s": 4,
+      "characters": [
+        "MIGUEL"
+      ],
+      "action": "Miguel notices Daniel looking at him.",
+      "camera": "close-up, eye-level, subtle handheld",
+      "motion": "eyes shift, brief eye contact, slight nervous smile",
+      "audio": "party ambience",
+      "status": "READY_FOR_KEYFRAME"
+    },
+    {
+      "id": "EP001-S04",
+      "duration_s": 4,
+      "characters": [
+        "DANIEL"
+      ],
+      "action": "Daniel holds the look for a moment and gives a restrained spontaneous smile.",
+      "camera": "close-up, eye-level",
+      "motion": "small smile, natural facial microexpressions",
+      "audio": "party ambience",
+      "status": "READY_FOR_KEYFRAME"
+    },
+    {
+      "id": "EP001-S05",
+      "duration_s": 5,
+      "characters": [
+        "MIGUEL",
+        "DANIEL",
+        "BACKGROUND_STUDENTS"
+      ],
+      "action": "Both remain in the same reception but physically separated by their own groups. They exchange one more glance.",
+      "camera": "medium-wide vertical composition with strong foreground separation",
+      "motion": "crowd moves naturally while both remain stable",
+      "audio": "party ambience",
+      "status": "READY_FOR_KEYFRAME"
+    },
+    {
+      "id": "EP001-S06",
+      "duration_s": 4,
+      "characters": [
+        "DANIEL",
+        "BACKGROUND_STUDENTS"
+      ],
+      "action": "A friend calls Daniel and he turns back toward his group.",
+      "camera": "over-shoulder from behind Daniel, then slight pan",
+      "motion": "head turn and body reorientation",
+      "audio": "friend calling Daniel off-camera, natural crowd noise",
+      "status": "READY_FOR_KEYFRAME"
+    },
+    {
+      "id": "EP001-S07",
+      "duration_s": 4,
+      "characters": [
+        "MIGUEL",
+        "BACKGROUND_STUDENTS"
+      ],
+      "action": "Miguel keeps talking with his group but looks toward Daniel once more.",
+      "camera": "medium close-up with rack focus from friend group to Miguel",
+      "motion": "brief glance, then returns attention to group",
+      "audio": "diegetic conversation",
+      "status": "READY_FOR_KEYFRAME"
+    },
+    {
+      "id": "EP001-S08",
+      "duration_s": 5,
+      "characters": [
+        "DANIEL",
+        "BACKGROUND_STUDENTS"
+      ],
+      "action": "Daniel becomes partially obscured by the crowd as he moves with his friends.",
+      "camera": "medium shot, slight lateral tracking",
+      "motion": "natural crowd occlusion",
+      "audio": "party ambience",
+      "status": "READY_FOR_KEYFRAME"
+    },
+    {
+      "id": "EP001-S09",
+      "duration_s": 4,
+      "characters": [
+        "MIGUEL"
+      ],
+      "action": "Miguel watches Daniel disappear into the crowd, then turns back. End on his expression.",
+      "camera": "close-up, slow micro push-in",
+      "motion": "eyes follow Daniel, tiny smile, cut on expression",
+      "audio": "party ambience, music bed",
+      "status": "READY_FOR_KEYFRAME"
+    }
+  ],
   "approval": null
 }

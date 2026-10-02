@@ -1,7 +1,9 @@
 # CHAR-005 · João Batista Almeida
 
 ## Status
-ANALYSIS ONLY
+APPROVED BY USER
+
+Written identity approved for visual production.
 
 ## Core identity
 **Name:** João Batista Almeida

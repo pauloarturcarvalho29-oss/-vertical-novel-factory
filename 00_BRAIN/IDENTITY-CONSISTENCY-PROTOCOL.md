@@ -92,3 +92,14 @@ Only individually approved assets become canonical.
 A composite sheet is a presentation artifact, not proof that all panels are consistent.
 
 Each canonical reference must have its own asset ID and QA status.
+
+
+## Single-character generation rule
+
+Canonical character production must generate ONE character at a time.
+
+Do not use multi-character composite sheets as canonical identity sources.
+
+A composite board may be used only as a non-canonical mood/reference artifact. Every character must receive an isolated master identity asset and isolated QA.
+
+If a generation produces an unexpected character name, multiple characters, or a different approved identity, the output is automatically NON-CANONICAL.
